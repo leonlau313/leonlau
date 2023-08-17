@@ -84,7 +84,7 @@ body {
   margin:10;
   padding:10;
   height: 100vh;
-  background:linear-gradient(to top, #abbaab, #ffffff);
+  background:linear-gradient(to top, #CFDEF3, #E0EAFC);
   /*background: linear-gradient(#c6ffdd, #fbd786, #f7797d);*/
   font-family: 'Roboto Condensed', sans-serif;
 }
