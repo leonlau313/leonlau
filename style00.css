@@ -15,15 +15,6 @@
   padding: 78px 0px;
 }
 
-.about img{
-  height: 700px;
-
-}
-
-.about-text {
-  width: 550px;
-}
-
 .main {
   width: 1000px;
   max-width: 95%;
@@ -31,21 +22,6 @@
   display: flex;
   align-items: center;
   justify-content:flex-end;
-}
-
-.about-text h2{
-  font-size: 60px;
-  text-transform: capitalize;
-  margin-bottom: 20px;
-  margin-left: 25px;
-}
-
-.about-text p{
-  font-size: 15px;
-  text-transform: capitalize;
-  margin-bottom: 25px;
-  margin-left: 25px;
-  letter-spacing: 1px;
 }
 
 .contact {

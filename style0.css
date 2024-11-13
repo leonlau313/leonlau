@@ -86,10 +86,10 @@
 body {
   margin:10;
   padding:10;
-  height: 215vh;
+  height: 150vh;
   /*background:linear-gradient(to top, #ffffff, #ffffff);*/
   /*background: linear-gradient(#c6ffdd, #fbd786, #f7797d);*/
-  background: #F5F5F5;
+  background: #faf0e6;
   font-family: 'Roboto Condensed', sans-serif;
 }
 /* position of cubes */
